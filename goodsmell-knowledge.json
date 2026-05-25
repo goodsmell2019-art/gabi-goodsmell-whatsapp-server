@@ -1,0 +1,293 @@
+{
+  "empresa": {
+    "nome": "Goodsmell",
+    "segmento": "Produtos para limpeza automotiva, estética automotiva, aromatizantes e perfumes automotivos.",
+    "instagram": "@goodsmell7",
+    "whatsapp": "19 98937-7299",
+    "cnpj": "27.357.578/0001-56",
+    "pix": "27.357.578/0001-56"
+  },
+  "menu_principal": [
+    "1 — Produtos automotivos",
+    "2 — Compra no atacado / revenda",
+    "3 — Financeiro / pagamento",
+    "4 — Falar com atendente"
+  ],
+  "linhas": [
+    {
+      "codigo": "L1",
+      "nome": "Aromatizantes e Perfumes Automotivos",
+      "descricao": "Linha para deixar o veículo cheiroso.",
+      "produtos": [
+        "A6",
+        "A7"
+      ]
+    },
+    {
+      "codigo": "L2",
+      "nome": "Limpeza Pesada",
+      "descricao": "Linha para sujeiras difíceis, óleo, graxa, motor, caixa de roda, limpeza técnica e limpeza geral mais forte.",
+      "produtos": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5"
+      ]
+    },
+    {
+      "codigo": "L3",
+      "nome": "Lava Auto",
+      "descricao": "Linha de shampoos automotivos para lavagem externa.",
+      "produtos": [
+        "A8",
+        "A9",
+        "A10"
+      ]
+    },
+    {
+      "codigo": "L4",
+      "nome": "Acabamentos, Plásticos e Pneus",
+      "descricao": "Linha para acabamento, brilho, proteção, plásticos, borrachas e pneus.",
+      "produtos": [
+        "A11",
+        "A13",
+        "A14",
+        "A18",
+        "A19",
+        "A20",
+        "A21"
+      ]
+    },
+    {
+      "codigo": "L5",
+      "nome": "Limpeza de Vidros",
+      "descricao": "Linha para limpeza, cristalização e tratamento de vidros.",
+      "produtos": [
+        "A15",
+        "A16",
+        "A17"
+      ]
+    },
+    {
+      "codigo": "L6",
+      "nome": "Descontaminação",
+      "descricao": "Linha para remoção de contaminações específicas, como contaminação ferrosa e pó de freio.",
+      "produtos": [
+        "A12"
+      ]
+    }
+  ],
+  "produtos": [
+    {
+      "codigo": "A1",
+      "nome": "APC Multilimpador",
+      "linha": "L2",
+      "indicacao": "Limpeza de painel, plásticos, borrachas, tecidos, carpetes e sujeiras gerais.",
+      "modo_de_uso": "Aplicar conforme orientação do rótulo, com pano de microfibra, pincel ou escova macia conforme a superfície.",
+      "cuidados": "Testar antes em área escondida. Em superfície sensível, usar com mais cuidado.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A2",
+      "nome": "Extreme",
+      "linha": "L2",
+      "indicacao": "Limpezas mais fortes e sujeiras difíceis.",
+      "modo_de_uso": "Aplicar na área, deixar agir por pouco tempo e remover/enxaguar conforme necessidade.",
+      "cuidados": "Não deixar secar na superfície. Testar antes.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A3",
+      "nome": "Limpador 4x1",
+      "linha": "L2",
+      "indicacao": "Limpeza versátil em diferentes áreas do veículo, conforme orientação do rótulo.",
+      "modo_de_uso": "Aplicar de acordo com a superfície e necessidade de limpeza.",
+      "cuidados": "Testar antes em uma pequena área.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A4",
+      "nome": "Desengraxante Ácido",
+      "linha": "L2",
+      "indicacao": "Sujeiras específicas, incrustações e limpezas técnicas que exigem produto ácido.",
+      "modo_de_uso": "Usar com cuidado e somente em superfícies compatíveis.",
+      "cuidados": "Produto ácido exige atenção. Pode manchar alumínio, cromados, pintura sensível e superfícies sem proteção. Não misturar com outros produtos.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A5",
+      "nome": "Desengraxante Alcalino",
+      "linha": "L2",
+      "indicacao": "Remoção de óleo, graxa, sujeira pesada, caixa de roda, motor e áreas contaminadas.",
+      "modo_de_uso": "Aplicar, deixar agir por pouco tempo, esfregar se necessário e enxaguar bem.",
+      "cuidados": "Não deixar secar. Testar antes em pintura, alumínio, cromados e superfícies sensíveis.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A6",
+      "nome": "Perfume Automotivo Spray",
+      "linha": "L1",
+      "indicacao": "Perfumação do interior do veículo.",
+      "modo_de_uso": "Aplicar conforme orientação do produto, evitando excesso.",
+      "cuidados": "Evitar contato direto com painel, pintura e superfícies sensíveis.",
+      "diluicao": "Pronto uso, se assim estiver no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A7",
+      "nome": "Perfume Automotivo Pingente",
+      "linha": "L1",
+      "indicacao": "Perfumação contínua do veículo com pingente.",
+      "modo_de_uso": "Utilizar conforme orientação do produto, evitando vazamento.",
+      "cuidados": "Evitar contato do líquido com painel, pintura e plásticos sensíveis.",
+      "diluicao": "Não aplicável.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A8",
+      "nome": "Lava Auto 1:100",
+      "linha": "L3",
+      "indicacao": "Lavagem automotiva com diluição 1:100, conforme orientação do produto.",
+      "modo_de_uso": "Diluir conforme indicado, aplicar com luva ou esponja macia e enxaguar bem.",
+      "cuidados": "Não aplicar sob sol forte e não deixar secar na pintura.",
+      "diluicao": "1:100.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A9",
+      "nome": "Lava Auto 1:300",
+      "linha": "L3",
+      "indicacao": "Lavagem automotiva mais concentrada, com alta diluição 1:300.",
+      "modo_de_uso": "Diluir conforme indicado, aplicar e enxaguar bem.",
+      "cuidados": "Não aplicar sob sol forte e não deixar secar na pintura.",
+      "diluicao": "1:300.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A10",
+      "nome": "Lava Auto 1:40",
+      "linha": "L3",
+      "indicacao": "Lavagem automotiva com diluição 1:40, conforme orientação do produto.",
+      "modo_de_uso": "Diluir conforme indicado, aplicar e enxaguar bem.",
+      "cuidados": "Não aplicar sob sol forte e não deixar secar na pintura.",
+      "diluicao": "1:40.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A11",
+      "nome": "Reset Pro — Limpador de Borracha e Plásticos",
+      "linha": "L4",
+      "indicacao": "Limpeza e preparação de borrachas e plásticos.",
+      "modo_de_uso": "Aplicar em superfície compatível, limpar e remover excesso.",
+      "cuidados": "Testar antes. Evitar áreas que possam ficar escorregadias.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A12",
+      "nome": "Descontaminante Ferroso",
+      "linha": "L6",
+      "indicacao": "Remoção de contaminação ferrosa e pó de freio em rodas e pintura, quando compatível.",
+      "modo_de_uso": "Aplicar, aguardar a reação conforme orientação do rótulo e enxaguar bem.",
+      "cuidados": "Não deixar secar. Testar antes em rodas repintadas, cromadas ou diamantadas.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A13",
+      "nome": "Cera Concentrada",
+      "linha": "L4",
+      "indicacao": "Acabamento, brilho e proteção superficial.",
+      "modo_de_uso": "Aplicar conforme orientação do produto e remover excesso se necessário.",
+      "cuidados": "Não aplicar sob sol forte. Testar antes.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A14",
+      "nome": "NanoGloss",
+      "linha": "L4",
+      "indicacao": "Acabamento premium, brilho e realce visual da pintura.",
+      "modo_de_uso": "Usar como acabamento final conforme orientação do produto.",
+      "cuidados": "Aplicar em superfície limpa e fria.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A15",
+      "nome": "Removedor de Chuva Ácida",
+      "linha": "L5",
+      "indicacao": "Remoção de manchas causadas por chuva ácida, principalmente em vidros, conforme compatibilidade.",
+      "modo_de_uso": "Aplicar conforme orientação do produto, trabalhar a área e remover totalmente.",
+      "cuidados": "Produto técnico. Testar antes. Evitar uso em superfície sensível sem confirmação.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A16",
+      "nome": "WaterOff — Cristalizador de Vidro",
+      "linha": "L5",
+      "indicacao": "Cristalização de vidros e melhora do escoamento da água.",
+      "modo_de_uso": "Aplicar no vidro limpo e seco conforme orientação do produto.",
+      "cuidados": "Evitar aplicar em vidro sujo ou contaminado. Seguir tempo de cura/orientação do rótulo.",
+      "diluicao": "Pronto uso, se assim estiver no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A17",
+      "nome": "UltraGlass — Limpador 5 em 1 Vidro",
+      "linha": "L5",
+      "indicacao": "Limpeza de vidros com ação 5 em 1.",
+      "modo_de_uso": "Aplicar no vidro e remover com pano limpo de microfibra.",
+      "cuidados": "Usar pano limpo para evitar manchas.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A18",
+      "nome": "G-Plast — Revitalizador de Plásticos",
+      "linha": "L4",
+      "indicacao": "Revitalização de plásticos internos e externos, ajudando a renovar o aspecto visual.",
+      "modo_de_uso": "Aplicar em superfície limpa e seca com aplicador ou pano, espalhando de forma uniforme.",
+      "cuidados": "Evitar excesso. Não aplicar em volante, pedais ou áreas que possam ficar escorregadias.",
+      "diluicao": "Pronto uso, se assim estiver no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A19",
+      "nome": "Limpa Pneus",
+      "linha": "L4",
+      "indicacao": "Limpeza de pneus antes da aplicação de acabamento ou condicionador.",
+      "modo_de_uso": "Aplicar no pneu, esfregar com escova adequada e enxaguar/remover a sujeira.",
+      "cuidados": "Evitar contato prolongado com rodas sensíveis. Testar antes.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A20",
+      "nome": "Condicionador de Pneus",
+      "linha": "L4",
+      "indicacao": "Acabamento e condicionamento de pneus, deixando aparência renovada.",
+      "modo_de_uso": "Aplicar no pneu limpo e seco com aplicador, espalhando uniformemente.",
+      "cuidados": "Não aplicar em banda de rodagem, volante, pedais ou superfícies escorregadias.",
+      "diluicao": "Pronto uso, se assim estiver no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    },
+    {
+      "codigo": "A21",
+      "nome": "Pretinho Concentrado",
+      "linha": "L4",
+      "indicacao": "Acabamento escuro e renovado para pneus e borrachas, conforme orientação do produto.",
+      "modo_de_uso": "Aplicar no pneu limpo e seco, espalhando bem. Ajustar quantidade conforme acabamento desejado.",
+      "cuidados": "Não aplicar na banda de rodagem. Evitar excesso para não escorrer.",
+      "diluicao": "A confirmar no cadastro oficial.",
+      "preco": "A consultar no app ou com atendente."
+    }
+  ]
+}
